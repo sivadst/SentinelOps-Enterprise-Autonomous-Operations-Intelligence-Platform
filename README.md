@@ -217,9 +217,7 @@ Open:
 
 ---
 
-# 📂 Project Structure
-
-```text
+📂 Project Structure
 SentinelOps
 
 ├── backend
@@ -243,7 +241,6 @@ SentinelOps
 ├── docker
 ├── docs
 └── README.md
-```
 
 ---
 
